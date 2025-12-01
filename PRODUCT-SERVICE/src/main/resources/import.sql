@@ -1,0 +1,10 @@
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Juan Miguel', 21, 'Masculino', 'juan@gmail.com', '3124317829');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('María Fernanda', 25, 'Femenino', 'mariaf@gmail.com', '3109876543');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Carlos Andrés', 30, 'Masculino', 'carlos.andres@hotmail.com', '3112233445');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Laura Sofía', 28, 'Femenino', 'laurasofia@yahoo.com', '3205566778');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Pedro Antonio', 35, 'Masculino', 'pedro.antonio@gmail.com', '3221122334');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Ana Lucía', 22, 'Femenino', 'analucia@hotmail.com', '3009988776');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('José Manuel', 40, 'Masculino', 'josemanuel@gmail.com', '3013344556');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Valentina Rojas', 27, 'Femenino', 'valentina.rojas@gmail.com', '3192233445');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Miguel Ángel', 33, 'Masculino', 'miguel.angel@gmail.com', '3181122334');
+INSERT INTO client (name, age, gender, email, phone) VALUES ('Camila Torres', 29, 'Femenino', 'camila.torres@hotmail.com', '3126677889');
